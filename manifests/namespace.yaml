@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   labels:
     tier: test
-  name: ardocd-demo
+  name: argocd-demo
